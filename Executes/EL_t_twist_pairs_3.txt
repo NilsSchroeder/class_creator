@@ -1,0 +1,30 @@
+Pair number 0 has a differential uniformity of 4.
+ [0, 0] --> [1] 
+ [0, 1] --> [0] 
+ [1, 0] --> [0] 
+ [1, 1] --> [1] 
+ 
+ [0, 0] --> [1] 
+ [0, 1] --> [0] 
+ [1, 0] --> [0] 
+ [1, 1] --> [1] 
+ 
+
+
+Pair number 1 has a differential uniformity of 4.
+ [0, 0] --> [1] 
+ [0, 1] --> [1] 
+ [1, 0] --> [0] 
+ [1, 1] --> [0] 
+ 
+ [0, 0] --> [1] 
+ [0, 1] --> [1] 
+ [1, 0] --> [0] 
+ [1, 1] --> [0] 
+ 
+
+
+The list contains 2 pairs. 
+There are 0 pairs with a differential uniformity of 2.
+There are 2 1-twists.
+2 functions are t-twist equivalent to themself.

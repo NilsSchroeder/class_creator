@@ -1,0 +1,56 @@
+Pair number 0 has a differential uniformity of 4.
+ [0, 0] --> [0] 
+ [0, 1] --> [0] 
+ [1, 0] --> [1] 
+ [1, 1] --> [1] 
+ 
+ [0, 0] --> [0] 
+ [0, 1] --> [0] 
+ [1, 0] --> [1] 
+ [1, 1] --> [1] 
+ 
+
+
+Pair number 1 has a differential uniformity of 4.
+ [0, 0] --> [0] 
+ [0, 1] --> [1] 
+ [1, 0] --> [1] 
+ [1, 1] --> [0] 
+ 
+ [0, 0] --> [0] 
+ [0, 1] --> [1] 
+ [1, 0] --> [1] 
+ [1, 1] --> [0] 
+ 
+
+
+Pair number 2 has a differential uniformity of 4.
+ [0, 0] --> [1] 
+ [0, 1] --> [0] 
+ [1, 0] --> [0] 
+ [1, 1] --> [1] 
+ 
+ [0, 0] --> [1] 
+ [0, 1] --> [0] 
+ [1, 0] --> [0] 
+ [1, 1] --> [1] 
+ 
+
+
+Pair number 3 has a differential uniformity of 4.
+ [0, 0] --> [1] 
+ [0, 1] --> [1] 
+ [1, 0] --> [0] 
+ [1, 1] --> [0] 
+ 
+ [0, 0] --> [1] 
+ [0, 1] --> [1] 
+ [1, 0] --> [0] 
+ [1, 1] --> [0] 
+ 
+
+
+The list contains 4 pairs. 
+There are 0 pairs with a differential uniformity of 2.
+There are 4 1-twists.
+4 functions are t-twist equivalent to themself.
